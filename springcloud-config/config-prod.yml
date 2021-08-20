@@ -1,2 +1,2 @@
 config:
-  info: "prod master 123456789"
+  info: "dev:prod master 123456789"
